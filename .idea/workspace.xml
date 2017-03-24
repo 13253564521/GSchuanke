@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32553480-035d-40ba-ab11-eebae8aa8af7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/LaunchImage.launchimage/LaunchImageIPhone-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/LaunchImage.launchimage/LaunchImageIPhone-700@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/LaunchImage.launchimage/LaunchImageIPhone-800-667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/LaunchImage.launchimage/LaunchImageIPhone-800-Portrait-736h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_abroad_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_abroad_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_certificate_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_certificate_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_college_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_college_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_design_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_design_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_entertainment_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_entertainment_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_foreign_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_foreign_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_invest_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_invest_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_live_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_live_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_program_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_program_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_school_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_school_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_servant_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_servant_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_work_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/channel_icon_work_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/bg_icon_to_launcher_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/bg_icon_to_launcher_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/bg_school_share_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/bg_school_share_unpre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_catalog_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_class_nums_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_info_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_info_title_vote@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_live_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/course_studs_nums_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/desktop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/desktop_press@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic4@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic5@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic6@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic7@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic8@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/school_pic9@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/share@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/courseDetail/share_press@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_class_study_status_end.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_class_study_status_ing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_class_study_status_not.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_info_bg_collect@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_info_bg_collected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_school_classify_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_school_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/course_studs_nums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/file_tital_back_but@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/search_btn_unpre_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/test_status_end.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/test_status_ing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/test_status_not.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Course/voice@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Refresh/icon_listheader_animation_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/Refresh/icon_listheader_animation_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/defualt_course_icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/launch/LaunchImageIPhone-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/launch/LaunchImageIPhone-700@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/launch/LaunchImageIPhone-800-667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/launch/LaunchImageIPhone-800-Portrait-736h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/lesson_default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab1_pre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab1_unpre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab2_pre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab2_unpre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab3_pre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Resource/tabbar/bottom_tab3_unpre@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Douban/libSocialDouban.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Email/libSocialEmail.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Bolts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/FBSDKCoreKit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/FBSDKLoginKit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/FBSDKShareKit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/libSocialFacebook.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Resources/ios_open_sdk_3.1.0.3_iphone" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/TencentOpenAPI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenApi_IOS_Bundle.bundle/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenApi_IOS_Bundle.bundle/qqicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenApi_IOS_Bundle.bundle/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/libSocialQQ.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Renren/libSocialRenren.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/alert_error_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/alert_success_icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_big_blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_big_blue_disable@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_big_blue_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_white@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_white_highlighted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_button_white_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/common_icon_arrow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/compose_keyboardbutton_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/compose_keyboardbutton_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/compose_toolbar_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/compose_toolbar_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/empty_failed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/empty_failed@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/login_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/login_country_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/login_country_background_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/navigationbar_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/navigationbar_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/navigationbar_background_os7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/navigationbar_background_os7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/progresshud_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/sdk_weibo_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/sdk_weibo_logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/sdk_weibo_logo@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_addattention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_addattention@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_attention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_attention@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/timeline_relationship_icon_attention@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/verify_code_button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/verify_code_button@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/verify_code_button_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/images/verify_code_button_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/others/mfp.cer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/libSocialSina.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/libWeiboSDK.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/libSocialWeChat.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/libWeChatSDK.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/UMSocialCore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/_CodeSignature/CodeDirectory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/_CodeSignature/CodeRequirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/_CodeSignature/CodeSignature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/UMSocialNetwork" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/_CodeSignature/CodeDirectory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/_CodeSignature/CodeRequirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/_CodeSignature/CodeSignature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/UShareUI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/_CodeSignature/CodeDirectory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/_CodeSignature/CodeRequirements" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/_CodeSignature/CodeSignature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseDetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseDetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseEvaluationViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseEvaluationViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseIntroductionViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseIntroductionViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSCourseViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSSchoolViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Controller/GSSchoolViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSClassCategoryModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSClassCategoryModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSClassListModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSClassListModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSCouerseModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSCouerseModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSCourseList.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSCourseList.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSDataListModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSDataListModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSDetailHeadModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSDetailHeadModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSFocusListModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSFocusListModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSSchoolModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSSchoolModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSStepListModel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/Model/GSStepListModel.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCollectionViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCollectionViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCommonlyCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCommonlyCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCommonlyCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseClassCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseClassCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseClassCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseDetailHeadView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseDetailHeadView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseDetailHeadView.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseEvaluationCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseEvaluationCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSCourseEvaluationCell.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSImageScrollViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSImageScrollViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSImageScrolleView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSImageScrolleView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSSchoolHeadView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSSchoolHeadView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Course/View/GSSchoolHeadView.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainTabBarController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainTabBarController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/MyClass/Controller/GSMyClassViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/MyClass/Controller/GSMyClassViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/OfflineDownload/Controller/GSOffineDownLoadViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/OfflineDownload/Controller/GSOffineDownLoadViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Extention/GSImageTopTextBottom.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Extention/GSImageTopTextBottom.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Extention/NSString+GSSize.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/Extention/NSString+GSSize.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Douban/UMSocialDoubanHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Email/UMSocialEmailHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLink.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLinkNavigation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLinkResolving.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFAppLinkTarget.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFCancellationToken.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFCancellationTokenRegistration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFCancellationTokenSource.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFExecutor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFMeasurementEvent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFTask.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFTaskCompletionSource.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFURL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/BFWebViewAppLinkResolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Headers/Bolts.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/Bolts.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKConstants.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKCopying.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKMacros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKProfile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKSettings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Headers/FBSDKUtility.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKCoreKit.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKLoginKit.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKAppGroupAddDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKAppGroupContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKAppGroupJoinDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKAppInviteContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKAppInviteDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKGameRequestContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKGameRequestDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKHashtag.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKLikeButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKLikeControl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKLikeObjectType.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKLiking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKMessageDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSendButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareAPI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareConstants.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareDialogMode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareKit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareLinkContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareMediaContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphAction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphValueContainer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSharePhoto.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSharePhotoContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareVideo.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKShareVideoContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSharing.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSharingButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Headers/FBSDKSharingContent.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/FBSDKShareKit.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/UMSocialFaceBookHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Facebook/facebook_ios_sdk_Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/QQApiInterface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentApiInterface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentMessageObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentOAuth.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentOAuthObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/sdkdef.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/TencentOpenApi_IOS_Bundle.bundle/local.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/QQ/UMSocialQQHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Renren/UMSocialRenrenHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/UMSocialSinaHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBHttpRequest+WeiboGame.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBHttpRequest+WeiboShare.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBHttpRequest+WeiboToken.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBHttpRequest+WeiboUser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBHttpRequest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBSDKBasicButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBSDKCommentButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WBSDKRelationshipButton.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK+Statistics.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.bundle/others/countryList" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboSDK.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/Sina/WeiboUser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/UMSocialWechatHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/WXApi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/WXApiObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/WechatAuthSDK.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/SocialLibraries/WeChat/read_me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSBaeViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialCore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialCoreImageUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialDataManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialGlobal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialImageUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialMessageObject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialPlatformConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialPlatformProvider.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialResponse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialSOAuthViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialShareEditViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Headers/UMSociallogMacros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialCore.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Headers/UMSocialHttpFactory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Headers/UMSocialNetwork.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Headers/UMSocialTask.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Headers/UMSocialTaskConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Headers/UMSocialTaskManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialSDK/UMSocialNetwork.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Headers/UMSocialShareUIConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Headers/UMSocialUIManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Headers/UMSocialUIUtility.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Headers/UShareUI.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Others/SDK/UMSocial/UMSocialUI/UShareUI.framework/_CodeSignature/CodeResources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Public.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Tools/GSAnimationRefreshHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Tools/GSAnimationRefreshHeader.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Tools/GSNetWorkTools.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/Classes/Tools/GSNetWorkTools.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/InfoConfig.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/classCategory.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GSchuanke/iCategoryList.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/GSchuanke.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke.xcodeproj/xcuserdata/liugaosheng.xcuserdatad/xcschemes/GSchuanke.xcscheme" afterPath="$PROJECT_DIR$/GSchuanke.xcodeproj/xcuserdata/liugaosheng.xcuserdatad/xcschemes/GSchuanke.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke.xcodeproj/xcuserdata/liugaosheng.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/GSchuanke.xcodeproj/xcuserdata/liugaosheng.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke/AppDelegate.m" afterPath="$PROJECT_DIR$/GSchuanke/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/GSchuanke/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GSchuanke/Info.plist" afterPath="$PROJECT_DIR$/GSchuanke/Info.plist" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulatoriPhone_7_10.2_x86_64_1" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GSMainNavigationController.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GSMainNavigationController.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="31" />
+    <option name="width" value="1256" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSchuanke" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Course" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.GSchuanke">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GSchuanke" TARGET_NAME="GSchuanke" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GSchuanke" RUN_TARGET_NAME="GSchuanke" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="GSchuanke" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GSchuanke" TARGET_NAME="GSchuanke" CONFIG_NAME="Debug" SCHEME_NAME="GSchuanke" RUN_TARGET_PROJECT_NAME="GSchuanke" RUN_TARGET_NAME="GSchuanke" MAKE_ACTIVE="TRUE">
+      <envs>
+        <env name="OS_ACTIVITY_MODE" value="disable" />
+      </envs>
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.GSchuanke" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32553480-035d-40ba-ab11-eebae8aa8af7" name="Default" comment="" />
+      <created>1486347609505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486347609505</updated>
+      <workItem from="1486347617712" duration="432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="31" width="1256" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31736526" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="164" column="8" lean-forward="false" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GSchuanke/Classes/Main/GSMainNavigationController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
